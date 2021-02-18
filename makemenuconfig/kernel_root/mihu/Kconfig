@@ -1,0 +1,8 @@
+menu "mihu test make menuconfig for 20200229"
+#	help
+#	  makemenuconfig begin arch/arm/Kconfig
+#	  all Kconfig base on root dir
+#	  I set the mihumenu to the init/Kconfig
+source "mihu/mihu1/Kconfig"
+	
+endmenu

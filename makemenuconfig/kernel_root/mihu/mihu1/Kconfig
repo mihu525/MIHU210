@@ -1,0 +1,19 @@
+#
+# 20200229  mihu test make menuconfig  
+# This is subMenu
+#
+
+config MIHU_TEST_BOOL
+	bool "bool /mihu/mihu1/Kconfig"
+	help
+	  This is mihu test! BOOL .
+
+config MIHU_TEST_TRISTATE
+	tristate "tristate"
+	help
+	  This is mihu test TRI..
+          makemenuconfig begin arch/arm/Kconfig
+          all Kconfig base on root dir
+          I set the mihumenu to the init/Kconfig
+
+			  
