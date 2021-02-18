@@ -1,0 +1,1 @@
+cmd_/home/share/driver/input_key/s5pv210_keypad.ko := /usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/share/tiger/android-kernel-samsung-dev-full/scripts/module-common.lds --build-id -o /home/share/driver/input_key/s5pv210_keypad.ko /home/share/driver/input_key/s5pv210_keypad.o /home/share/driver/input_key/s5pv210_keypad.mod.o

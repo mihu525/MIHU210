@@ -1,0 +1,1 @@
+cmd_/home/share/driver/hello_world/hello_world.ko := /usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/share/tiger/android-kernel-samsung-dev-full/scripts/module-common.lds --build-id -o /home/share/driver/hello_world/hello_world.ko /home/share/driver/hello_world/hello_world.o /home/share/driver/hello_world/hello_world.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/share/driver/led_platform/led-mihu.ko := /usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/share/tiger/android-kernel-samsung-dev-full/scripts/module-common.lds --build-id -o /home/share/driver/led_platform/led-mihu.ko /home/share/driver/led_platform/led-mihu.o /home/share/driver/led_platform/led-mihu.mod.o

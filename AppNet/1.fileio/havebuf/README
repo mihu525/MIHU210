@@ -1,0 +1,8 @@
+This two code is test write and fwrite function
+write is system API 
+fwrite is lib function
+
+test result 
+write function not buf  when you write sth it's immediately writed;
+fwrite function have buf  when you write sth it's writed when call fclose();
+

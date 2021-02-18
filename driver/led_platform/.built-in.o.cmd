@@ -1,0 +1,1 @@
+cmd_/home/share/driver/led_platform/built-in.o :=  rm -f /home/share/driver/led_platform/built-in.o; /usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-ar rcs /home/share/driver/led_platform/built-in.o

@@ -16,7 +16,7 @@ int main()
 
 	//second time 
 	printf("git add hello_world.c\n");	
-	printf("git remote add origin https://github.com/mihu525/hello-world.git\n");
+	printf("git commit -m \"add hello_world.c\"\n");
         printf("git push -u origin master\n");
 
 	return 0;	
